@@ -19,6 +19,7 @@ function Book(){
 
 function addBookToLibrary(){
     // already made with basic script so not used here
+    //to be used later for forming constructor functions
 }
 const table = document.querySelector("tbody");
 const btn = document.querySelector(".btn");
